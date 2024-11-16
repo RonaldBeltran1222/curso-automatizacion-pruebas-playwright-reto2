@@ -12,6 +12,7 @@ _Expects y mapeo_
 ![expects](./screenshots/expectLocator.png)
 
 _Otra forma de mapear el serch_
+
 ![search](./screenshots/Search.png)
 
 ## Segundo test
